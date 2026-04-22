@@ -1,0 +1,28 @@
+{
+    "cursos":
+    [
+        {
+            "Id": 1,
+            "nome": "Desenvolvimento de Sistemas",
+            "diciplinas": ["WEB III", "PAM II", "BD"],
+            "carga-horaria": 1200
+
+        },
+
+        {
+            "Id": 2,
+            "nome": "Informatica para Internet",
+            "diciplinas": ["WEB III", "PAM II", "BD"],
+            "carga-horaria": 1200
+
+        },
+
+        {
+            "Id": 3,
+            "nome": "Informatica",
+            "diciplinas": ["WEB III", "PAM II", "BD"],
+            "carga-horaria": 1200
+
+        }
+    ]
+}
