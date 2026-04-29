@@ -23,12 +23,12 @@
             "diciplinas": ["WEB III", "PAM II", "BD"],
             "carga-horaria": 1200
 
-        },
-        "professores":[
-            {"id": 1, "nome":"Jean"},
-            {"id": 2, "nome":"Francisco"},
-            {"id": 3, "nome":"Alicia"},
-            {"id": 4, "nome":"Daniel"},
-        ]
+        }
+    ],
+    "professores":[
+        {"id": 1, "nome":"Jean"},
+        {"id": 2, "nome":"Francisco"},
+        {"id": 3, "nome":"Alicia"},
+        {"id": 4, "nome":"Daniel"}
     ]
 }
